@@ -1,0 +1,5 @@
+.vs
+.vscode
+*/.ipynb_checkpoints
+*.tsv
+*.parquet
