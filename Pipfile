@@ -13,5 +13,10 @@ pyarrow = "*"
 gensim = "*"
 lxml = "*"
 html5lib = "*"
+jupyter = "*"
+torch = "*"
+cuda-python = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
